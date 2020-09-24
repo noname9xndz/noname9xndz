@@ -1,4 +1,4 @@
-✨ Hi everybody 👋, I'm noname9xnd ✨
+✨ Hi everybody 👋, I'm noname ✨
 - 🔭 
 - 🌱
 - 👯 
