@@ -1,6 +1,6 @@
 ✨ Hi everybody 👋, I'm noname ✨
-- 🔭 
-- 🌱
+- 🔭 Backend : Asp.Net
+- 🌱 Frontend: Blazor
 - 👯 
 - 🤔 
 - 💬 
@@ -8,8 +8,6 @@
 - 😄 
 - ⚡ 
 
-* Backend : Asp.Net
-* Frontend: Blazor
 
 <hr>
 
