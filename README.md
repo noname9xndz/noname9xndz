@@ -8,8 +8,8 @@
 - 😄 
 - ⚡ 
 
-* Backend: [![Asp.Net: noname9xnd](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/noname9xndz)
-* Frontend: [![Blazor: noname9xnd](https://img.shields.io/badge/ReactJS-61dafb?style=flat-square&logo=react&logoColor=black)](https://github.com/noname9xndz)
+* Backend : Asp.Net
+* Frontend: Blazor
 
 <hr>
 
