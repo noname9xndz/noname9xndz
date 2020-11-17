@@ -1,4 +1,4 @@
-✨ Hi everybody 👋, I'm noname ✨
+✨ Hi everybody 👋, I'm nona ✨
 - 🔭 Backend : Asp.Net
 - 🌱 Frontend: Blazor
 - 👯 
