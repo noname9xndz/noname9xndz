@@ -1,7 +1,7 @@
 ✨ Hi everybody 👋, I'm nona ✨
 - 🔭 Backend : Asp.Net
 - 🌱 Frontend: Blazor
-- 👯 
+- 👯 Mobile : Flutter
 - 🤔 
 - 💬 
 - 📫 
