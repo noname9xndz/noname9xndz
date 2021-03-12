@@ -2,9 +2,9 @@
 - 🔭 Backend : Asp.Net
 - 🌱 Frontend: Blazor
 - 👯 Mobile : Flutter
-- 🤔 https://noname9xndz.github.io/noname
-- 💬 
-- 📫 
+- 📫 https://noname9xndz.github.io/noname
+- 💬 https://join.skype.com/invite/aEne0uEgBL40
+- 🤔
 - 😄 
 - ⚡ 
 
