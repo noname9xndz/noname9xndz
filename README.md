@@ -11,7 +11,7 @@
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-noname9xndz" width="40%">
+<img src="https://raw.githubusercontent.com/noname9xndz/noname9xndz/master/dev-coding.gif" alt="funny-gif-noname9xndz" width="40%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noname9xndz" alt="noname9xndz" /> </p>
 
