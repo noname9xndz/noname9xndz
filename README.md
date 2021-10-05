@@ -1,5 +1,5 @@
 ✨ Hi everybody 👋, I'm nona ✨
-- 🔭 Backend : Asp.Net
+- 🔭 Backend : Asp.Net , Sitecore
 - 🌱 Frontend: Blazor
 - 👯 Mobile : Flutter
 - 📫 https://noname9xndz.github.io/noname
