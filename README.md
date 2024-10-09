@@ -1,4 +1,4 @@
-✨ Hi everybody 👋, I'm nona ✨
+✨ Hi everybody 👋, I'm luke ✨
 - 🔭 Backend : Asp.Net, Sitecore, Sitefinity
 - 🌱 Frontend: Blazor
 - 👯 Mobile : Flutter
