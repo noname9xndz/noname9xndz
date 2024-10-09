@@ -2,7 +2,7 @@
 - 🔭 Backend : Asp.Net, Sitecore, Sitefinity
 - 🌱 Frontend: Blazor
 - 👯 Mobile : Flutter
-- 📫 https://noname9xndz.github.io/noname
+- 📫 https://noname9xndz.github.io/noname || https://lukedang.vercel.app
 - 💬 https://join.skype.com/invite/aEne0uEgBL40
 - 🤔
 - 😄 
